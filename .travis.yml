@@ -1,8 +1,6 @@
 language: node_js
 node_js:
-  - "node"
-  - "iojs"
+  - node
+  - iojs
 # uncomment and edit the following line if your project needs to run something other than `rake`:
 # script: bundle exec rspec spec
-
- install: npm install
